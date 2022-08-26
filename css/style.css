@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  color: purple;
+}
+h2 {
+  text-align: center;
+  background-color: rgb(154, 18, 192);
+  color: white;
+  padding: 10px 0px;
+}
+.box,
+.shape {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(208, 102, 102);
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.margin1 {
+  margin: 20px;
+}
+.margin2 {
+  margin: 20px 40px;
+}
+.margin3 {
+  margin: 20px 60px 60px;
+}
+.margin4 {
+  margin: 20px 20px 20px 20px;
+}
+.padding1 {
+  padding: 20px;
+}
+.padding2 {
+  padding: 20px 40px;
+}
+.padding3 {
+  padding: 20px 40px 60px;
+}
+.padding4 {
+  padding: 20px 20px 20px 20px;
+}
+.div,
+.p,
+a {
+  background-color: rgb(224, 158, 207);
+}
+.div1,
+.p1 {
+  display: inline;
+  background-color: rgb(224, 158, 207);
+}
+.iframe {
+  width: 49%;
+  height: 315px;
+}
+.map {
+  width: 100%;
+  height: 450px;
+  margin-top: 10px;
+}
